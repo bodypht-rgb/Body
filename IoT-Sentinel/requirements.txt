@@ -1,0 +1,4 @@
+httpx
+asyncssh
+aiomqtt
+python-dotenv
